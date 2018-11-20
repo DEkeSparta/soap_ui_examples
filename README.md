@@ -1,6 +1,6 @@
-#SoapUI Examples
+# SoapUI Examples
 
 This repository contains example tests completed using SoapUI.
 
-##Tested Sites
+## Tested Sites
 Fixer.io (API)
